@@ -1,0 +1,22 @@
+In an online market place shoppers add items to their virtual cart and later on decide whether to actually purchase them or not.
+
+The challenge we present to you given a driver set containing website visitors, predict whether a visitor will purchase a product (tag == 1) or not (tag == 0).
+
+Attached train and test sets. Each row represents a pair of (website_visitor, product).
+
+Your output should be a text file which contains a single column with the prediction (0 or 1) for each one of the test samples.
+
+Each prediction in the output file should be in a separate row.
+
+Feel free to use any scripting language you find comparable although Python is preferable.
+
+Please consider the test data as an UNSEEN dataset, which is available only for calculating your predictions
+ 
+When you finish, please send me the code as well. Please do NOT publish your code in Git or anywhere else online
+
+Also, please make sure you have a three-hour time window for starting and completing the challenge.
+ 
+Please consider that this home test will be the subject of the first interview as well.
+
+ 
+Good luck! 
