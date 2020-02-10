@@ -1,3 +1,5 @@
+## Instructions
+
 Attached is a file containing guide RNAs of lengths 20bp-23bp, and their location in the human DNA hg38. <br/>
 The location is specified in terms of chromosome (e.g. chr7), and starting position (e.g. 14256990). <br/>
 The program (written in python or R) must receive the attached file as input, <br/>
@@ -15,5 +17,5 @@ Therefore, the total length of each amplicon sequence will be between 420bp – 
 
 
 <p align="center">
-  <img width="460" height="300" src="guide_RNA.png">
+  <img width="460" height="450" src="guide_RNA.png">
 </p>
