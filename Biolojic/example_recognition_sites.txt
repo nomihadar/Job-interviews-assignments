@@ -1,0 +1,8 @@
+R3131	Bln I from Brevibacterium linens	5'-C/CTAGG-3'
+R4253	BstE II from Bacillus stearothermophilus ET	5'-G/GTNACC-3'
+R2756	EcoR V from Escherichia coli	5'-GAT/ATC-3'
+R6142	Acc I from Acinetobacter calcoaceticus	5'-GT/(A,C)(G,T)AC-3'
+R6885	Alu I from Arthrobacter luteus	5'-AG/CT-3'
+R4258	Apa I from Acetobacter pasteurianus	5'-GGGCC/C-3'
+R0260	BamH I from Bacillus amyloliquefaciens H*	5'-G/GATCC-3'
+R8631	Bcl I from Bacillus caldolyticus	5'-T/GATCA-3'
